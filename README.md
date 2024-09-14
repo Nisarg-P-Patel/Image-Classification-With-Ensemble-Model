@@ -1,5 +1,4 @@
 # Image-Classification-With-Ensemble-Model
-=
 
 ## Project Overview
 
